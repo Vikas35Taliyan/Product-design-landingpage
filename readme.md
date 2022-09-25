@@ -1,10 +1,13 @@
-![Name](https://img.shields.io/badge/Name-Vikas%20kumar%20Taliyan-brightgreen)
+![project](https://img.shields.io/badge/PROJECT-Product%20Design-yellow)
 
-![Tech](https://img.shields.io/badge/Tech-CSS-yellowgreen)
+![Tech](https://img.shields.io/badge/TECH-CSS-yellowgreen)
+![Time](https://img.shields.io/badge/TIME-8%20Hour-red)
 ![Tech](https://img.shields.io/badge/LCO-Iwritecode-orange)
-![project](https://img.shields.io/badge/project-product%20design-yellow)
-![thanks](https://img.shields.io/badge/Thanks-Hitesh%20Choudhary-red)
-![Thanks](https://img.shields.io/badge/Thanks-Inueron-blue)
+![thanks](https://img.shields.io/badge/THANKS-Hitesh%20Choudhary-red)
+![Thanks](https://img.shields.io/badge/THANKS-Ineuron-blue)
+
+## Netlify
+[Live](https://product-design-website.netlify.app/)
 
 # Product Design landing-page.
 
@@ -17,15 +20,13 @@
 </td>
 </tr>
 </table>
-## Time Takem
-- 8 hours
 
-### Skills Gained from this
+### Skills Gained from this Project.
 
-- Navbar using CSS flexbox.
-- Wrote HTML code from scratch for this page.
-- Class, tag selector for HTML elements.
-- Created cards for displaying contents in better formats with buttons.
+- Flexbox Basic Properties.
+- Wrote HTML code from scratch for this Project.
+- Targeting Classes.
+- Created cards using flexbox for displaying contents in better formats with buttons.
 
 ### Screenshot
 
