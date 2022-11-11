@@ -21,7 +21,7 @@
 </tr>
 </table>
 
-### Skills Gained from this Project.
+### Skills Gained from this Project-
 
 - Flexbox Basic Properties.
 - Wrote HTML code from scratch for this Project.
